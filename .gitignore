@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+## ignore les fichiers generes par les systemes mac
+.DS_Store
+*.DS_Store
+**/src/**/.DS_Store
